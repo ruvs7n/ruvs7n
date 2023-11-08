@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruvs7n
-- 👀 I’m interested in programming Ru(програмированием )
+- 👀 I’m interested in programming Ru (програмированием )
 - 🌱 I’m currently learning for shool Ru ( в школе )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
