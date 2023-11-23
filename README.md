@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming Ru (програмированием )
 - 🌱 I’m currently learning for shool Ru ( в школе )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me t.me/ruvs7n
 
 <!---
 ruvs7n/ruvs7n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
